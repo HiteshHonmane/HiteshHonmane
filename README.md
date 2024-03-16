@@ -1,13 +1,15 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Hitesh Honmane</h1>
 <h3 align="center">A Passionate Front-end Web Developer</h3>
-- 🔭 I’m currently working on [Music Web-App](https://github.com/HiteshHonmane/Spotify-Clone) <br>
-- 👯 I’m looking to collaborate on Front-End Development <br>
-- 🌱 I’m currently learning React <br>
-- 💬 Ask me about JavaScript, React, Tailwind, HTML5, CSS3 <br>
-- 📫 How to reach me - hiteshhonmane@gmail.com <br>
-- 👨‍💻 All of my projects are available at - https://github.com/HiteshHonmane <br>
-- ⚡ Fun fact - I love to flex my code <br>
+🔭 Check out my live projects: <br>
+&nbsp &nbsp &nbsp 1.Blog webapp (https://blog-platform-peach.vercel.app/) <br>
+&nbsp &nbsp &nbsp 2.Music-app Spotify clone ( https://spotify-clone-khaki-nine.vercel.app/ ) <br>
+👯 I’m looking to collaborate on Front-End Development <br>
+🌱 I’m currently learning React <br>
+💬 Ask me about JavaScript, React, Tailwind, HTML5, CSS3 <br>
+📫 How to reach me - hiteshhonmane@gmail.com <br>
+👨‍💻 All of my projects are available at - https://github.com/HiteshHonmane <br>
+⚡ Fun fact - I love to flex my code <br>
 
 <div> <a href="https://twitter.com/hitesh__honmane" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/HiteshHonmane" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
