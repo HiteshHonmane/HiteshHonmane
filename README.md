@@ -48,5 +48,5 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiteshHonmane&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HiteshHonmane&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiteshHonmane&theme=2077" height="180em" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiteshhonmane&label=Profile%20views&color=0e75b6&style=flat" alt="hiteshhonmane" /> </p>
+
 </div>
