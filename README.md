@@ -1,5 +1,23 @@
 <h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&repeat=false&random=false&width=800&height=70&lines=console.log('+I+am+Front-end+Developer+')" alt="Typing SVG" /></a></h1>
+
+## Projects
+### Blogging Platform
+<div>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" style="margin: 10px" src="https://i.ibb.co/yYgX9Yy/Screenshot-185.png" alt="CSS3" height="150" width="300" /></a>
+  <div>
+    <span>• Auth Services </span><br>
+    <span>• Real Time Editor  </span> <br>
+    <span>• Edit & Delete post </span> <br>
+    <span>• Publish article with image </span> <br>
+    <span>• test user Email: testuser@gmail.com Password:12345678  </span> <br>
+    <a href='https://blog-platform-peach.vercel.app/'  >• Live at ▲ vercel  </a>
+  </div>
+</div>
+
+
+
+
 </div><h3 align="left">Connect with me:</h3>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
