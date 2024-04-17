@@ -36,7 +36,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
 
 
-<p><img align="" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" /></p>
+<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" /></p>
 
 
 
