@@ -5,7 +5,7 @@
  [![Screenshot-191.png](https://i.postimg.cc/gkcPSxnc/Screenshot-191.png)](https://portfolio-website-hiteshs-projects-b3999c5b.vercel.app/)
 <div>
   <div>
-    <a href='https://blog-platform-peach.vercel.app/'  > Deployed at ▲ vercel  </a>
+    <a href='https://portfolio-website-hiteshs-projects-b3999c5b.vercel.app/'  > Deployed on ▲ vercel  </a>
   </div>
 </div>
 
