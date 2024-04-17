@@ -33,7 +33,7 @@
   </div>
 
 <h3 align="left">Statistics</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" />
 
 <div align="left">
