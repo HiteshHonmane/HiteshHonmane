@@ -1,17 +1,11 @@
 <h1> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&repeat=false&random=false&width=800&height=70&lines=console.log('+I+am+Front-end+Developer+')" alt="Typing SVG" /></a></h1>
 
-## Projects
-### Blogging Platform
+## Portfolio
+ [![Screenshot-191.png](https://i.postimg.cc/gkcPSxnc/Screenshot-191.png)](https://portfolio-website-hiteshs-projects-b3999c5b.vercel.app/)
 <div>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" style="margin: 10px" src="https://i.ibb.co/yYgX9Yy/Screenshot-185.png" alt="CSS3" height="150" width="300" /></a>
   <div>
-    <span>• Auth Services </span><br>
-    <span>• Real Time Editor  </span> <br>
-    <span>• Edit & Delete post </span> <br>
-    <span>• Publish article with image </span> <br>
-    <span>• test user Email: testuser@gmail.com Password:12345678  </span> <br>
-    <a href='https://blog-platform-peach.vercel.app/'  >• Live at ▲ vercel  </a>
+    <a href='https://blog-platform-peach.vercel.app/'  > Deployed at ▲ vercel  </a>
   </div>
 </div>
 
@@ -42,7 +36,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
 
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" /></p>
+<p><img align="" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" /></p>
 
 
 
