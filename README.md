@@ -34,11 +34,7 @@
 
 <h3 align="left">Statistics</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
-
-
-<p><img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" /></p>
-
-
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" />
 
 <div align="left">
 <a href="https://github.com/HiteshHonmane">
