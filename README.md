@@ -34,12 +34,10 @@
   </div>
 
 <h3 align="left">Statistics</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane />
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiteshHonmane&layout=compact&theme=" alt=HiteshHonmane /><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HiteshHonmane&theme=" alt="HiteshHonmane" />
 
 <div align="left">
 <a href="https://github.com/HiteshHonmane">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiteshHonmane&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiteshHonmane&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HiteshHonmane&theme=algolia" height="180em" /><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HiteshHonmane&theme=2077" height="180em" />
 
 </div>
