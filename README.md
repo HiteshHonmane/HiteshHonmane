@@ -1,5 +1,5 @@
 <h1> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&repeat=false&random=false&width=800&height=70&lines=console.log('+I+am+Front-end+Developer+')" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=2000&repeat=false&random=false&width=800&height=70&lines=printf('+I+am+Software+Developer+')" alt="Typing SVG" /></a></h1>
 
 ## Portfolio
  [![Screenshot-191.png](https://i.postimg.cc/gkcPSxnc/Screenshot-191.png)](https://portfolio-website-hiteshs-projects-b3999c5b.vercel.app/)
