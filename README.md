@@ -16,7 +16,7 @@ OS            ThreadX • RTOS • AOSP • Embedded Linux
 Role          Lead Embedded Engineer
 Experience    2+ Years [IoT • AIoT • Embedded Linux]
 Projects      StockDock-[Dhan] • UPI Payment SoundBox-[Paytm, PaySwiff, BlackBuck] • Face Recognition Biometric Device
-Fixed         SPI Display Tearing • I2S Audio ES711 • FishEye Distrition Sony IMX219 & Color correction
+Fixed         SPI Display Tearing • I2S Audio ES711 • Sony IMX219 FishEye Distortion & Color Correction
 Languages     C • C++ • Rust
 Protocol      I2C • I2S SPI • MIPI-CSI/DSI • RAW RGB • QSPI
 Frameworks    Fibo • ESP-IDF • FreeRTOS • LVGL
