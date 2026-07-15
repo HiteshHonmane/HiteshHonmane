@@ -15,7 +15,7 @@ root@hitesh:~$
 OS            ThreadX • RTOS • AOSP • Embedded Linux
 Role          Lead Embedded Engineer
 Experience    2+ Years [IoT • AIoT • Embedded Linux]
-Projects      StockDock-[Dhan] • UPI Payment SoundBox-[Paytm, PaySwiff, BlackBuck] • Face Recognition Biometric Device-[PagarBook]
+Projects      StockDock-[Dhan] • UPI Payment SoundBox-[Paytm, PaySwiff, BlackBuck] • Face Recognition Biometric Device
 Languages     C • C++ • Rust
 Protocol      I2C • I2S SPI • MIPI-CSI/DSI • RAW RGB • QSPI
 Frameworks    Fibo • ESP-IDF • FreeRTOS • LVGL
